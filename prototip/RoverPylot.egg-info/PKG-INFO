@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: RoverPylot
+Version: 0.1
+Summary: Python API for the Brookstone Rover 2.0 and Rover Revolution
+Home-page: http://home.wlu.edu/~levys/software/roverpylot
+Author: Simon D. Levy
+Author-email: simon.d.levy@gmail.com
+License: LGPL
+Description: UNKNOWN
+Platform: Linux; Windows
